@@ -2,7 +2,7 @@
 
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Senuja0x&theme=gotham"></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senuja0x&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senuja0x&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></p>
 
 <div align="center" >
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Senuja0x&hide_border=true&theme=gotham" />
