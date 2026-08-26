@@ -23,12 +23,3 @@
  -->
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/Senuja0x?v=1787736545186"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
